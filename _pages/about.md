@@ -3,9 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+Husband and father of Weronika.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+On a journey to be a better human being.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Software developer turning data scientist.
