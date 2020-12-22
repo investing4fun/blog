@@ -17,7 +17,7 @@ This will include:
 - ethical investing,
 - research Forex, CFDs - is it something I could use to invest,
 - figure out best ways to diversity portfolio (funds, ETFs),
-- hedging small, private portfolio,
+- how to hedge small, private portfolio,
 - cutting edge of investing - (like DeFi on Ethereum).
 
 This is probably not a complete list, but my aim is to research one topic a week and write it down for my own benefit.
