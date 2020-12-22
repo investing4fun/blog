@@ -11,7 +11,7 @@ Another year is a good opportunity to set new goals:
  2. set a long term goal
  3. set aside time for retrospecting and blogging
  
-ad 1. I was starting to mediate quite a few times in my life already, but it never stuck with me. This is to have more patience, more focus and more perspective,
+ad 1. I was starting to mediate quite a few times in my life already, but it never stuck with me. Perhaps this year. This is to have more patience, more focus and more perspective,
 
 ad 2. give a long term goal a shape, so it is something tangible to work towards and it will also help with creating short and mid term goals,
 
