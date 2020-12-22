@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 layout: post
 categories: [investing]
 title: Investing - a (re)start
