@@ -8,7 +8,7 @@ This is the time of the year, when you tend to think of the things to improve in
 
 I became interested in markets right after I turned 18. It was a time of a big boom no the polish stock exchange, and I wanted a piece of it. I didn't know much about life not to mention how market worked so it was based rather on emotions than on knowledge. Fortunately I didn' t loose anything, and I didn't gain much either. This year it started in a similar way - a lot of gut feeling decisions, like buying oil at the rock bottom, buying more BTC etc. Most proved to be profitable, but still it is a gut feeling investing, based on more knowledge than before, but nevertheless emotionally driven.
 
-This year I've decided to take more structured approach to investing, that takes less time on a daily basis, is more diversified and in general safer.
+This year I've decided to take more **structured** approach to investing, that takes **less time** on a daily basis, is more **diversified** and in general safer.
 
 This will include:
 
