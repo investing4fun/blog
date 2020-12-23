@@ -20,4 +20,4 @@ This will include:
 - how to hedge small, private portfolio,
 - cutting edge of investing - (like DeFi on Ethereum).
 
-This is probably not a complete list, but my aim is to research one topic a week and write it down for my own benefit.
+This is probably not a complete list, but my aim is to research one smallish topic a week + one bigger one a month and write it down for my own benefit.
