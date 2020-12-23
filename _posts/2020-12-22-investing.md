@@ -13,11 +13,11 @@ This year I've decided to take more structured approach to investing, that takes
 This will include:
 
 - learn ways to trade automatically (from basics like stop loss orders, to trading algorithms that can signal certain market conditions, or even perform trades on my behalf),
-- find out more about different sectors (clean energy, AI/Robotics, healthcare, biotech …),
-- ethical investing,
-- research Forex, CFDs - is it something I could use to invest,
-- figure out best ways to diversity portfolio (funds, ETFs),
-- how to hedge small, private portfolio,
-- cutting edge of investing - (like DeFi on Ethereum).
+- find out more about different sectors (clean energy, AI/Robotics, healthcare and eldery care, biotech …),
+- [ethical investing](https://en.wikipedia.org/wiki/Socially_responsible_investing),
+- research [Forex](https://www.babypips.com/learn/forex/what-is-forex), CFDs - is it something I could use to invest,
+- figure out best ways to diversity portfolio (funds, [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund)),
+- how to [hedge](https://www.investopedia.com/terms/h/hedge.asp#:~:text=Hedging%20is%20an%20imperfect%20science,cyclical%20and%20counter%2Dcyclical%20stocks.) small, private portfolio,
+- cutting edge of investing - (like [DeFi](https://www.coindesk.com/what-is-defi) for example).
 
 This is probably not a complete list, but my aim is to research one smallish topic a week + one bigger one a month and write it down for my own benefit.
