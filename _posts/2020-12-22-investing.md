@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-categories: [investing]
+categories: [priorities, investing]
 title: Investing - a (re)start
 ---
 This is the time of the year, when you tend to think of the things to improve in your life. One of the those that kept me busy this year was investing. During the COVID-19 pandemic stock market lured me in one more time.
