@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-categories: [priorities spirituality]
+categories: [priorities, spirituality]
 title: What is important for you?
 ---
 Yesterday we received sad news - our spiritual father Włodzimierz Zatorski [OSB](https://en.wikipedia.org/wiki/Benedictines) has died.
