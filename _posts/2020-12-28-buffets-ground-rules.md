@@ -3,7 +3,7 @@ toc: true
 hide: true
 layout: post
 categories: [book, investing]
-title: Warren Buffet's Ground Rules by Jeremy C. Miller
+title: WIP Warren Buffet's Ground Rules by Jeremy C. Miller
 ---
 Who haven't heared about Warren Buffet? I did, but I didn't know much about his investment style. He seems to be a very gentle but controversial figure, which in it's own is pretty rare - either he does something that annoys a lot of people, or he is a wolf in a sheep's clothing. My working theory is that he's performance is so good and consistent over the years, that many people in the industry hate him for that. Maybe this book will shed some light on him and his style of investing. Below are the major ideas that I found valuable.
 
@@ -25,3 +25,5 @@ Because of the expotential nature of the interest gains function, it really can 
 Buffet claims that beating the Index is pretty tough, and most investment managers regurarly fail to do this. He also cautions not to confuse profits with good performance and gives analogy of a duck: It is not duck's fault when the tide is low, neither there is a reason to quack when the tide is rising. The lesson from this is: always compare your investments in stocks vs. relevant index (benchmark).
 
 Buffet's believe in difficulty of beating the index made him add to his will that money his wife inherits will be invested in the index fund.
+
+### How to invest long term?
