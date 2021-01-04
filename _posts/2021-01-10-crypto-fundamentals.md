@@ -1,5 +1,5 @@
 ---
-toc: false
+toc: true
 hidden: true
 layout: post
 categories: [priorities, spirituality]
@@ -7,8 +7,9 @@ title: Crypto fundamentals?
 ---
 I was speculating with BTC last year a bit. That was a profitable time, but required daily monitoring as it is with short term trading on a high volatility instruments. It got me thinking: why I couldn't relax and treat it more like a long term investment?
 
-**The answer is: I can't see any fundamental reason why it is growing!**
+**The answer is: I can't see any fundamental reason why BTC is growing!**
 
+### False crypto fundamentals
 At the beginning I was kidding myself, that this is the future, that the adoption of BTC as a truly digital mechanism to store wealth is growing, the supply is limitted, so it must go up - basic market principles. But is it really?
 Let's debunk those "fundamentals":
 - **limitted supply** Surely, Bitcoin in itself is limited in supply. There is a process to create new coins, but around of 80% of all the bitcons have already been mined and there is hard limit embedded in the algorithm. But who is preventing anyone from creating another Bitcoin? Nobody, and this is exactly what is happening - there are hundreds (if not thousands) of crypto currencies, most very simillar to bitcoin, without any real world usage other than speculation mechanism
@@ -22,3 +23,11 @@ You can't treat it as other 1. *fiat currency*, you can't treat it as a 2. *comm
 ad. 1 The price of bitcoin is purely market driven, there is nobody (i.e. national central bank) to defend it as a matter of principle or national pride, there is no law to forbid trading on certain territory in other currency
 ad. 2 it is surely not a commodity - it is not being used in an industrial process, not used for human consumption ... - things that have intrinsic value
 ad. 3 it is becoming a value store, but it certainly doesn't have a history behind it that for example GOLD has.
+
+#### Other agruments against BTC and most other alt coins
+
+
+
+### Real crypto fundamentals: do they exist?
+
+Ethereum as a medium for DeFi ecosystem and as a decentralized computational system. (limited transactions before v2, how is it now?)
