@@ -1,6 +1,6 @@
 ---
 toc: true
-hidden: true
+hidden: false
 layout: post
 categories: [investing, crypto]
 title: Crypto fundamentals?
