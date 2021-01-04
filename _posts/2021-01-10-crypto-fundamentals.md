@@ -1,3 +1,10 @@
+---
+toc: false
+hidden: true
+layout: post
+categories: [priorities, spirituality]
+title: Crypto fundamentals?
+---
 I was speculating with BTC last year a bit. That was a profitable time, but required daily monitoring as it is with short term trading on a high volatility instruments. It got me thinking: why I couldn't relax and treat it more like a long term investment?
 
 **The answer is: I can't see any fundamental reason why it is growing!**
