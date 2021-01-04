@@ -24,4 +24,4 @@ This is true, it is going mainstream: Revolut, german banks, PayPay are offering
 
 ## Real crypto fundamentals: do they exist?
 
-I think they do. There is certain value in the adoption of the currency. So for example Ethereum (ETH) is a medium for decentralized finance (DeFi) and a decentralized computational system. So far it was crippled by limited transaction number before v2, but now it soon should be fixed.
+I think they do. There is some little value in the adoption of the currency (as it costs to exchange to something else). And specifically for Ethereum (ETH) the value is in it being a medium for decentralized finance (DeFi) and a decentralized computational system. So far it was crippled by limited transaction number before v2, but now it soon should be fixed.
