@@ -2,7 +2,7 @@
 toc: true
 hidden: true
 layout: post
-categories: [priorities, spirituality]
+categories: [investing, crypto]
 title: Crypto fundamentals?
 ---
 I was speculating with BTC last year a bit. I had a good time, but that required daily price monitoring as it is with short term trading on a high volatility instruments. It got me thinking: why I couldn't relax and treat it more like a long term investment? I believed in bitcoin value! But did I?
