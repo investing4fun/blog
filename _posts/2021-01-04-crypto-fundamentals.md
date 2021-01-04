@@ -22,8 +22,10 @@ This is true, it is going mainstream: Revolut, german banks, PayPay are offering
 - most crypto (and especially bitcoin) mining is resource intensive with a [huge carbon footprint](https://www.sciencedirect.com/science/article/pii/S2542435119302557) and after COVID, environmental disaster is another big problem for our planet,
 - it fuels gray and dark net. Of course bitcoin is not the root cause of it's existance, but makes things easier.
 
-## Real crypto fundamentals: do they exist?
+## True crypto fundamentals
 
-I think they do. There is some little value in the adoption of the currency (as it costs to exchange to something else). 
+There is some little value in the adoption of the digital currency (as it costs to exchange to something else), but it is not a big factor as I mentioned before. 
 
-There is one very interesting case though: Ethereum (ETH). The ETH value is in being a medium for decentralized finance (DeFi) and a decentralized computational system. So far it was crippled by limited transaction number before v2, but now it soon should be fixed. I shall look into it in the future!
+One very interesting case stand out for me though: Ethereum (ETH). The ETH value is in being a medium for decentralized finance (DeFi) and a decentralized computational system. So far it was crippled by limited transaction number before v2, but now it soon should be fixed. I shall look into it in the future!
+
+Bitcoin is an ultimate speculative instrument for me. I am not saying I won't *gamble* with it once more, but this time I won't mistake it for *investing in fundamentals*.
