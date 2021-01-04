@@ -11,7 +11,6 @@ I became interested in markets right after I turned 18. It was a time of a big b
 This year I've decided to take more **structured** approach to investing, that takes **less time** on a daily basis, is more **diversified** and in general safer.
 
 This will include:
-
 - find out more about different **sectors** (clean energy, AI/Robotics, healthcare and eldery care, biotech …),
 - **[ethical investing](https://en.wikipedia.org/wiki/Socially_responsible_investing)**,
 - learn ways **automate trading** (from basics like stop loss orders, to trading algorithms that can signal certain market conditions, or even perform trades on my behalf),
@@ -19,9 +18,10 @@ This will include:
 - figure out best ways to **diversity** portfolio (funds, [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund)),
 - how to **[hedge](https://www.investopedia.com/terms/h/hedge.asp#:~:text=Hedging%20is%20an%20imperfect%20science,cyclical%20and%20counter%2Dcyclical%20stocks.)** small, private portfolio,
 - **cutting edge** of investing - (like [DeFi](https://www.coindesk.com/what-is-defi) for example).
+- build framework for my own, long term investing
 
 and think of 2021 specific topics:
 - think about the economic cycle and where we are at now,
 - prepare calendar with major economic events.
 
-This is probably not a complete list, but my aim is to research one smallish topic a week + one bigger one a month and write it down for my own benefit.
+This is surely not a complete list, but my aim is to research one smallish topic a week + one bigger one a month and write it down for my own benefit.
