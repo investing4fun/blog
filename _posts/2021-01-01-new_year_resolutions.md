@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-categories: [personal]
+categories: [personal, spirituality, priority]
 title: New Year's resolutions
 ---
 A lot has happened this year on that front: exercising regularly, restarted my weekly fasting, moved with my learning a bit further...
