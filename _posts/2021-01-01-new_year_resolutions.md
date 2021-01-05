@@ -4,7 +4,7 @@ layout: post
 categories: [personal]
 title: New Year's resolutions
 ---
-A lot has happened this year: exercising regularly, restarted my weekly fasting, moved with my learning a bit further.
+A lot has happened this year on that front: exercising regularly, restarted my weekly fasting, moved with my learning a bit further...
 
 Another year is a good opportunity to set new goals:
  1. meditate daily
