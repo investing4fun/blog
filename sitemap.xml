@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://pawlowskimichal.github.io/blog/medicalnist/mnist/basic/2020/06/19/fist_post.html</loc>
+<loc>https://pawlowskimichal.github.io/blog/ml/medical/2020/06/19/fist_post.html</loc>
 <lastmod>2020-06-19T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://pawlowskimichal.github.io/blog/basic/sgd/2020/07/20/building-blocks-of-dl-sgd.html</loc>
+<loc>https://pawlowskimichal.github.io/blog/ml/medical/2020/07/20/building-blocks-of-dl-sgd.html</loc>
 <lastmod>2020-07-20T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://pawlowskimichal.github.io/blog/medicalnist/mnist/basic/2020/07/23/building-blocks-of-dl-linear_model_on_medicalnist.html</loc>
+<loc>https://pawlowskimichal.github.io/blog/ml/medical/2020/07/23/building-blocks-of-dl-linear_model_on_medicalnist.html</loc>
 <lastmod>2020-07-23T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://pawlowskimichal.github.io/blog/2020/09/25/loading-dicom.html</loc>
+<loc>https://pawlowskimichal.github.io/blog/ml/medical/2020/09/25/loading-dicom.html</loc>
 <lastmod>2020-09-25T00:00:00-05:00</lastmod>
 </url>
 <url>
