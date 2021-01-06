@@ -27,3 +27,8 @@ Buffet claims that beating the Index is pretty tough, and most investment manage
 Buffet's believe in difficulty of beating the index made him add to his will that money his wife inherits will be invested in the index fund.
 
 ### How to invest long term?
+
+Categories of stocks:
+ - Generals (undervalued stocks)
+ - Workouts (arbitrage opportunities like buyout intentions with higher price)
+ - Controls
