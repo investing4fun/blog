@@ -4,7 +4,7 @@ hidden: false
 layout: post
 categories: [investing, crypto]
 title: Crypto fundamentals?
-subtitle: Re-evaluating my attitude towards *coin
+description: Re-evaluating my attitude towards *coin
 ---
 I was speculating with BTC last year a bit. I had a good time, but that required daily price monitoring as it is with short term trading on a high volatility instruments. It got me thinking: why I couldn't relax and treat it more like a long term investment? I believed in bitcoin value! But did I?
 
